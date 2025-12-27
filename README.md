@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arambh8960
 - 👀 I’m interested in progruageamming language
-- 🌱 I’m currently learning python,html,css,javascript
+- 🌱 I have command on html,css,javascript,node.js,react.js,express.js,mongodb,machine learning,power bi,excel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/
 arambh-tiwari-857550304
