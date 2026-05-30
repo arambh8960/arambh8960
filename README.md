@@ -23,23 +23,12 @@
 
 ## 🙋‍♂️ About Me
 
-```python
-class Arambh:
-    name       = "Arambh Tiwari"
-    roles      = ["MERN Stack Developer 💻", "Data Scientist 🧠"]
-    tech       = {
-        "frontend"  : ["React.js", "Next.js", "JavaScript", "Tailwind CSS"],
-        "backend"   : ["Node.js", "Express.js", "MongoDB", "REST APIs"],
-        "data"      : ["Python", "ML", "Deep Learning", "Power BI", "NLP"],
-    }
-    building   = "AI-powered web apps that solve real problems 🔥"
-    learning   = "System Design • Deep Learning • NLP"
-    goal       = "Full Stack / Data Science roles 🚀"
-    email      = "arambh.tiwari11@gmail.com"
-    fun_fact   = "I build things that matter — from finance AI to student analytics 📊"
-```
-
----
+- 💻 Full Stack MERN Developer
+- 🤖 Building AI-powered web applications
+- 🧠 Passionate about Machine Learning & Data Science
+- 🌱 Currently learning System Design & Backend Development
+- 🚀 Open to Software Engineering Opportunities
+- 📫 Reach me at: arambh.tiwari11@gmail.com
 
 ## 🚀 Featured Projects
 
