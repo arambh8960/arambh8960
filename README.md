@@ -55,7 +55,7 @@ class Arambh:
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Groq+Llama-FF6B35?style=flat-square&logoColor=white" />
       </p>
-      <p align="center"><a href="https://github.com/arambh8960/CashPilot"><b>🔗 View Project →</b></a></p>
+      <p align="center"><a href="https://cashpilot-1.onrender.com/budget-coach"><b>🌐 Live Demo →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎓 Student Performance Prediction</h3>
