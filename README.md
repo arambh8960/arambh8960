@@ -35,6 +35,30 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+    <h3 align="center">🚀 Reporyx-AI</h3>
+    <p align="center"><b>AI-Powered Developer Onboarding Assistant</b></p>
+    <p>
+      Reporyx-AI helps developers understand any GitHub repository using
+      Retrieval-Augmented Generation (RAG), semantic code search, repository
+      analysis, and AI-powered code understanding. Simply paste a GitHub
+      repository URL and start asking questions about the codebase.
+    </p>
+
+   <p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChromaDB-FF9800?style=flat-square" />
+      <img src="https://img.shields.io/badge/Groq+Llama-6366F1?style=flat-square&logoColor=white" />
+    </p>
+
+   <p align="center">
+      <a href="https://github.com/arambh8960/Reporyx-AI">
+        <b>📂 GitHub Repository →</b>
+      </a>
+    </p>
+  </td>
+    <td width="50%" valign="top">
       <h3 align="center">💰 CashPilot</h3>
       <p align="center"><b>AI-Powered Personal Finance Platform</b></p>
       <p>Full-stack MERN app to track income, manage expenses & get personalised budgeting insights via an AI Budget Coach built on Groq + Llama.</p>
