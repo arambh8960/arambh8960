@@ -23,93 +23,79 @@
 
 ## 🙋‍♂️ About Me
 
-- 💻 Full Stack MERN Developer
-- 🤖 Building AI-powered web applications
-- 🧠 Passionate about Machine Learning & Data Science
-- 🌱 Currently learning System Design & Backend Development
-- 🚀 Open to Software Engineering Opportunities
-- 📫 Reach me at: arambh.tiwari11@gmail.com
+- 💻 **Full Stack MERN Developer**
+- 🤖 Building **AI-powered** web applications
+- 🧠 Passionate about **Machine Learning & Data Science**
+- 🌱 Currently learning **System Design & Backend Development**
+- 🚀 Open to **Software Engineering Opportunities**
+- 📫 Reach me at: **arambh.tiwari11@gmail.com**
+
+---
 
 ## 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-    <h3 align="center">🚀 Reporyx-AI</h3>
-    <p align="center"><b>AI-Powered Developer Onboarding Assistant</b></p>
-    <p>
-      Reporyx-AI helps developers understand any GitHub repository using
-      Retrieval-Augmented Generation (RAG), semantic code search, repository
-      analysis, and AI-powered code understanding. Simply paste a GitHub
-      repository URL and start asking questions about the codebase.
-    </p>
+<details open>
+<summary><b>Click to expand/collapse projects</b></summary>
+<br>
 
-   <p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/ChromaDB-FF9800?style=flat-square" />
-      <img src="https://img.shields.io/badge/Groq+Llama-6366F1?style=flat-square&logoColor=white" />
-    </p>
+### 🚀 Reporyx-AI
+**AI-Powered Developer Onboarding Assistant**
+Reporyx-AI helps developers understand any GitHub repository using Retrieval-Augmented Generation (RAG), semantic code search, repository analysis, and AI-powered code understanding.
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF9800?style=flat-square" />
+<img src="https://img.shields.io/badge/Groq+Llama-6366F1?style=flat-square&logoColor=white" />
+<br>
+<a href="https://github.com/arambh8960/Reporyx-AI"><b>📂 GitHub Repository →</b></a>
 
-   <p align="center">
-      <a href="https://github.com/arambh8960/Reporyx-AI">
-        <b>📂 GitHub Repository →</b>
-      </a>
-    </p>
-  </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💰 CashPilot</h3>
-      <p align="center"><b>AI-Powered Personal Finance Platform</b></p>
-      <p>Full-stack MERN app to track income, manage expenses & get personalised budgeting insights via an AI Budget Coach built on Groq + Llama.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Groq+Llama-FF6B35?style=flat-square&logoColor=white" />
-      </p>
-      <p align="center"><a href="https://cashpilot-1.onrender.com/budget-coach"><b>🌐 Live Demo →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 Student Performance Prediction</h3>
-      <p align="center"><b>Live ML Web App — Deployed on Streamlit</b></p>
-      <p>ML model that predicts student academic performance based on key factors. Fully deployed as an interactive web app — try it live!</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://student-performance-prediction89.streamlit.app/"><b>🌐 Live Demo →</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💻 Laptop Price Predictor</h3>
-      <p align="center"><b>Live ML Web App — Deployed on Streamlit</b></p>
-      <p>ML model predicting laptop prices based on specs — RAM, processor, storage & brand — with a clean web interface. Achieved high accuracy with ensemble methods.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      </p>
-      <p align="center"><a href="https://laptop-prize-prediction.streamlit.app/"><b>🌐 Live Demo →</b></a></p>
-    </td>
-    
-  </tr>
-</table>
+---
+
+### 💰 CashPilot
+**AI-Powered Personal Finance Platform**
+Full-stack MERN app to track income, manage expenses & get personalised budgeting insights via an AI Budget Coach built on Groq + Llama.
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq+Llama-FF6B35?style=flat-square&logoColor=white" />
+<br>
+<a href="https://cashpilot-1.onrender.com/budget-coach"><b>🌐 Live Demo →</b></a>
+
+---
+
+### 🎓 Student Performance Prediction
+**Live ML Web App — Deployed on Streamlit**
+ML model that predicts student academic performance based on key factors. Fully deployed as an interactive web app.
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<br>
+<a href="https://student-performance-prediction89.streamlit.app/"><b>🌐 Live Demo →</b></a>
+
+---
+
+### 💻 Laptop Price Predictor
+**Live ML Web App — Deployed on Streamlit**
+ML model predicting laptop prices based on specs — RAM, processor, storage & brand — with a clean web interface.
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<br>
+<a href="https://laptop-prize-prediction.streamlit.app/"><b>🌐 Live Demo →</b></a>
+
+</details>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-
-**🎨 Frontend**
-
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -117,15 +103,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**⚙️ Backend**
-
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**🧠 Data Science & AI**
-
+### 🧠 Data Science & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -135,15 +119,12 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**🔧 Tools & Platforms**
-
+### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</p>
 
 ---
 
